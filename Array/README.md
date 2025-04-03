@@ -8,7 +8,7 @@ Each solution is implemented in **Java**, following clean and efficient coding p
 | Problem Name      | Solution               | Difficulty |
 | ---------------- | ------------------------ | ---------- |
 | Two Sum           | [twoSum.java](twoSum.java) | Easy       |
-| ...               | ...                      | ...        |
+| Single Num        | [SingleNumber.java](SingleNumber.java)| Easy        |
 
 ## How to Run 🛠️
 
